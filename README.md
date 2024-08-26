@@ -8,7 +8,7 @@ Projeto de criptografia e descriptografia desenvolvido para o desafio da Alura. 
 
 ## Deploy 
 
-- <a>https://decodificador-allan.netlify.app/ <a/>
+- <a> https://decodificador-allan.netlify.app/ <a/>
 
 ## ⚙️ Funcionalidades
 
@@ -30,7 +30,7 @@ Projeto de criptografia e descriptografia desenvolvido para o desafio da Alura. 
 
 - [Email] allanmota55@hotmail.com
 
-[![linkedin](https://www.linkedin.com/in/allan-mota-348154224//)
+[![linkedin] (https://www.linkedin.com/in/allan-mota-348154224//)
 
 ### 🔗 Link do Figma
 
